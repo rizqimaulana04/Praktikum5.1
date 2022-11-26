@@ -17,5 +17,5 @@
 ### Berikut Tampilan Program Saat Dijalankan
 ![img](gambar/nodata%26tmbhdt.png)</br>
 ![img](gambar/udt%26crdt.png)</br>
-![img](gambar/udt%26crdt.png)</br>
+![img](gambar/hpsdt.png)</br>
 <p>SELESAI</p>
