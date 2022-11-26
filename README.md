@@ -9,7 +9,7 @@
 ### 7. "Cari data". Apabila kita menginputkan 'c' maka kita akan diminta untuk memasukkan nama yang akan dicari. Apabila nama yang dicari ada di dalam dictionary maka outputnya akan menampilkan data dari nama tersebut.
 ### 8. "Lihat data". Apabila kita menginput 'l' maka sistem akan menampilkan data - data yang sudah kita masukkan. Jika kita belum memasukkan data maka outputnya menjadi "TIDAK ADA DATA".
 ### 9. "Keluar". Apabila kita menginput 'k' maka program akan langsung berhenti.
-### 10. Jika menginputkan selain (t,u,h,c,l,k) makan akan diminta untuk memilih menu yang tersedia.
+### 10. Jika menginputkan selain (else) (t,u,h,c,l,k) makan akan diminta untuk memilih menu yang tersedia.
 ### Berikut Codingan Praktikum5.1
 ![img](gambar/1.png)</br>
 ![img](gambar/2.png)</br>
