@@ -9,13 +9,19 @@
 ### 7. "Cari data". Apabila kita menginputkan 'c' maka kita akan diminta untuk memasukkan nama yang akan dicari. Apabila nama yang dicari ada di dalam dictionary maka outputnya akan menampilkan data dari nama tersebut.
 ### 8. "Lihat data". Apabila kita menginput 'l' maka sistem akan menampilkan data - data yang sudah kita masukkan. Jika kita belum memasukkan data maka outputnya menjadi "TIDAK ADA DATA".
 ### 9. "Keluar". Apabila kita menginput 'k' maka program akan langsung berhenti.
-### 10. Jika menginputkan selain (else) (t,u,h,c,l,k) makan akan diminta untuk memilih menu yang tersedia.
-### Berikut Codingan Praktikum5.1
+### 10. Jika menginputkan selain (else) (t, u, h, c, l, k) makan akan diminta untuk memilih menu yang tersedia.
+
+## <b>Flowchart</b>
+![img](gambar/Flowchart.png)
+## <b>Berikut Codingan Praktikum5.1</b>
 ![img](gambar/1.png)</br>
 ![img](gambar/2.png)</br>
 ![img](gambar/3.png)</br>
-### Berikut Tampilan Program Saat Dijalankan
+## <b>Berikut Tampilan Program Saat Dijalankan</b>
+### Tidak Ada Data dan Tambah Data
 ![img](gambar/nodata%26tmbhdt.png)</br>
+### Ubah Data dan Cari Data
 ![img](gambar/udt%26crdt.png)</br>
+### Hapus Data
 ![img](gambar/hpsdt.png)</br>
 <p>SELESAI</p>
